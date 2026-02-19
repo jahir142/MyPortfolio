@@ -1,4 +1,4 @@
-# iPortfolio
+# Portfolio
 
 iPortfolio is a responsive personal portfolio website created to showcase my profile, technical skills, academic projects, and resume as a Java Full Stack Developer trainee. The website provides a clean and professional interface to present my work and learning journey in web development.
 
