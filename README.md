@@ -1,6 +1,6 @@
 # Portfolio
 
-iPortfolio is a responsive personal portfolio website created to showcase my profile, technical skills, academic projects, and resume as a Java Full Stack Developer trainee. The website provides a clean and professional interface to present my work and learning journey in web development.
+Portfolio is a responsive personal portfolio website created to showcase my profile, technical skills, academic projects, and resume as a Java Full Stack Developer trainee. The website provides a clean and professional interface to present my work and learning journey in web development.
 
 This portfolio includes sections such as About Me, Skills, Projects, Resume Download, and Contact details. It is designed to be mobile-friendly and easy to navigate, giving recruiters and viewers a quick overview of my abilities and experience.
 
