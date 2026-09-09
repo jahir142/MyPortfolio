@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f2027"/>
+      <stop offset="50%" style="stop-color:#203a43"/>
+      <stop offset="100%" style="stop-color:#2c5364"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#149ddd"/>
+      <stop offset="100%" style="stop-color:#1cc9a2"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="400" fill="url(#bg)"/>
+  <!-- Grid lines -->
+  <line x1="0" y1="80" x2="600" y2="80" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="0" y1="160" x2="600" y2="160" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="0" y1="240" x2="600" y2="240" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="0" y1="320" x2="600" y2="320" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="120" y1="0" x2="120" y2="400" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="240" y1="0" x2="240" y2="400" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="360" y1="0" x2="360" y2="400" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="480" y1="0" x2="480" y2="400" stroke="#ffffff08" stroke-width="1"/>
+  <!-- Book icons -->
+  <rect x="80" y="130" width="30" height="50" rx="3" fill="#149ddd" opacity="0.8"/>
+  <rect x="116" y="120" width="30" height="60" rx="3" fill="#1cc9a2" opacity="0.8"/>
+  <rect x="152" y="140" width="30" height="40" rx="3" fill="#149ddd" opacity="0.6"/>
+  <rect x="188" y="125" width="30" height="55" rx="3" fill="#1cc9a2" opacity="0.6"/>
+  <!-- AI circuit dots -->
+  <circle cx="380" cy="160" r="6" fill="#149ddd"/>
+  <circle cx="420" cy="140" r="6" fill="#1cc9a2"/>
+  <circle cx="460" cy="170" r="6" fill="#149ddd"/>
+  <circle cx="440" cy="200" r="6" fill="#1cc9a2"/>
+  <circle cx="400" cy="210" r="6" fill="#149ddd"/>
+  <line x1="380" y1="160" x2="420" y2="140" stroke="#149ddd" stroke-width="1.5" opacity="0.6"/>
+  <line x1="420" y1="140" x2="460" y2="170" stroke="#1cc9a2" stroke-width="1.5" opacity="0.6"/>
+  <line x1="460" y1="170" x2="440" y2="200" stroke="#149ddd" stroke-width="1.5" opacity="0.6"/>
+  <line x1="440" y1="200" x2="400" y2="210" stroke="#1cc9a2" stroke-width="1.5" opacity="0.6"/>
+  <line x1="400" y1="210" x2="380" y2="160" stroke="#149ddd" stroke-width="1.5" opacity="0.6"/>
+  <!-- Title -->
+  <rect x="100" y="260" width="400" height="3" fill="url(#accent)" rx="2"/>
+  <text x="300" y="305" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#ffffff" text-anchor="middle">AI Library Management System</text>
+  <text x="300" y="335" font-family="Arial, sans-serif" font-size="13" fill="#149ddd" text-anchor="middle">Python · Django · AI · MySQL · REST API</text>
+  <!-- Top badge -->
+  <rect x="240" y="30" width="120" height="26" rx="13" fill="#149ddd" opacity="0.2"/>
+  <text x="300" y="47" font-family="Arial, sans-serif" font-size="11" fill="#149ddd" text-anchor="middle">Python · AI · Full Stack</text>
+</svg>
